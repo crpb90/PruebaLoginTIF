@@ -4,10 +4,10 @@ class Config:
 
 class DevelopmentConfig(Config):
     DEBUG = True
-    MYSQL_HOST = 'localhost'
-    MYSQL_USER = 'root'
-    MYSQL_PASSWORD = 'Root'
-    MYSQL_DB = 'prueba_login'
+    MYSQL_HOST = 'Rcris.mysql.pythonanywhere-services.com'
+    MYSQL_USER = 'Rcris'
+    MYSQL_PASSWORD = 'p6QZ)N9pe2uMn_m'
+    MYSQL_DB = 'Rcris$default'
 
 
 config = {
